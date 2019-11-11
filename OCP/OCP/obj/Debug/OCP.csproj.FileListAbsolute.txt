@@ -1,0 +1,7 @@
+c:\users\sunainaj\source\repos\OCP\OCP\bin\Debug\OCP.exe.config
+c:\users\sunainaj\source\repos\OCP\OCP\bin\Debug\OCP.exe
+c:\users\sunainaj\source\repos\OCP\OCP\bin\Debug\OCP.pdb
+c:\users\sunainaj\source\repos\OCP\OCP\obj\Debug\OCP.csprojAssemblyReference.cache
+c:\users\sunainaj\source\repos\OCP\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+c:\users\sunainaj\source\repos\OCP\OCP\obj\Debug\OCP.exe
+c:\users\sunainaj\source\repos\OCP\OCP\obj\Debug\OCP.pdb
